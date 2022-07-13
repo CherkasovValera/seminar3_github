@@ -84,6 +84,7 @@
     git checkout master
     git merge branch_name
     
+После слияния веток ненужные ветки надо удалить
 
 ## Синтаксис языка MarkDown
 
