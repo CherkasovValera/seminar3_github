@@ -12,8 +12,8 @@
 
 Затем прописываем свои данные с помощью команд:
 
-    git config name
-    git config mail
+    git config --global user.name
+    git config --global user.email
 
 # Создание файла в репозитарии и его сохранение
 
